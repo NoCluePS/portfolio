@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 type ProjectProps = {
   project: {
@@ -35,7 +35,7 @@ export const Project = ({ project }: ProjectProps) => {
               rel="noreferrer"
             >
               <button className="bg-black hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">
-                GitHub repo
+                Webpage
               </button>
             </a>
           </div>

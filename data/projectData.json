@@ -1,15 +1,8 @@
 [
   {
-    "id": 1,
-    "name": "NASA mission control",
-    "githubUrl": "https://github.com/PSOrigins/NASA-mission-conrol",
-    "shortDescription": "A full-stack project, that takes info from the spacex api and puts it in a list of failed/succeded launches",
-    "backgroundImage": "https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png"
-  },
-  {
     "id": 2,
     "name": "E-comm",
-    "githubUrl": "https://github.com/PSOrigins/e-commerce",
+    "githubUrl": "https://crwn-gym.netlify.app/",
     "shortDescription": "This is a simple e-commerce website I made about a year ago, made with firebase/redux",
     "backgroundImage": "https://oreeed.com/wp-content/uploads/2021/02/960x0.jpg"
   },

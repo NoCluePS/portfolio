@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
-import type { NextPage } from 'next';
-import Head from 'next/head';
+import type { NextPage } from "next";
+import Head from "next/head";
 
 import {
   Background,
@@ -10,8 +10,8 @@ import {
   Contact,
   Projects,
   FadeInSection,
-} from '../components';
-import { FaArrowDown } from 'react-icons/fa';
+} from "../components";
+import { FaArrowDown } from "react-icons/fa";
 
 const Home: NextPage = () => {
   return (
@@ -25,12 +25,12 @@ const Home: NextPage = () => {
         <Background />
         <NavBar className="absolute top-8 flex justify-evenly w-screen" />
         <h1 className="text-white text-5xl absolute bottom-20 left-5 sm:bottom-36 font-semibold sm:font-black sm:left-24 text-center">
-          MAIN ACCOUNT GOT SUSPENDED
+          Pijus Serapinas
           <br />
           welcome 😁
         </h1>
         <div className="absolute animate-bounce flex justify-center w-full bottom-0">
-          <FaArrowDown color={'#00000'} size={35} />
+          <FaArrowDown color={"#00000"} size={35} />
         </div>
       </div>
       <FadeInSection>
