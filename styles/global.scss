@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: black;
+  font-family: 'Urbanist', sans-serif;
+  color: white;
+  overflow-x: hidden;
+}
+
+.link {
+  @apply hover:underline hover:text-gray-400 cursor-pointer text-xl;
+}
