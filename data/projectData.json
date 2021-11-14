@@ -9,42 +9,42 @@
   {
     "id": 3,
     "name": "React-native chat",
-    "githubUrl": "https://github.com/PSOrigins/chat-react-native",
+    "githubUrl": "https://expo.dev/@psorigins/the-chat",
     "shortDescription": "This is a react-native chat you can use on either IOS or Andoird. It's built with firebase/firestore",
     "backgroundImage": "https://cdn.discordapp.com/attachments/885610220695466024/891740677271060510/Untitled_design.png"
   },
   {
     "id": 4,
     "name": "shitty-google",
-    "githubUrl": "https://github.com/PSOrigins/shitty-google",
+    "githubUrl": "https://shitty-google.netlify.app/",
     "shortDescription": "It's a stupid side project I made. A simple google homepage clone, which has search capabilities using google search API",
     "backgroundImage": "data:image/png;base64,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"
   },
   {
     "id": 5,
     "name": "MealsToGo",
-    "githubUrl": "https://github.com/PSOrigins/MealsToGo",
+    "githubUrl": "https://expo.dev/@psorigins/MealsToGo",
     "shortDescription": "A restaurant finding app, which allows you to search for nearby restaurants. Made a long time ago, one of my first react-native apps",
     "backgroundImage": "https://cdn.discordapp.com/attachments/885610220695466024/891740786159415437/Untitled_design_1.png"
   },
   {
     "id": 6,
     "name": "Covid-tracker",
-    "githubUrl": "https://github.com/PSOrigins/covid-tracker",
+    "githubUrl": "https://covid-tracker-pj.netlify.app/",
     "shortDescription": "Shows all the covid issues on every country, made using the disease.ph API",
     "backgroundImage": "https://media.nationalgeographic.org/assets/photos/569/648/2adb092b-1726-4e56-a0dd-30056756ddae.jpg"
   },
   {
     "id": 7,
     "name": "Notes",
-    "githubUrl": "https://github.com/PSOrigins/notes/tree/main",
+    "githubUrl": "https://expo.dev/@psorigins/notes-app",
     "shortDescription": "This is a simple side-project that took me a day to finish. It's pretty featureless, but I didin't have the time or need to add anything more :D",
     "backgroundImage": "https://d1wp6m56sqw74a.cloudfront.net/~assets/85fbc00b70cd74d8feb3dbbd0dae29ba"
   },
   {
     "id": 8,
     "name": "This website :D",
-    "githubUrl": "https://github.com/PSOrigins/digital-portfiolio-update",
+    "githubUrl": "https://github.com/PijusSerapinasMipsas/portfolio",
     "shortDescription": "This is the website you are on right now. It's a website used to tell you about who I am as person, and what I am capable of, built with next.js",
     "backgroundImage": "https://cdn.discordapp.com/attachments/885610220695466024/891740853733834783/PS.png"
   },

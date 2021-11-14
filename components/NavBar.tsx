@@ -1,15 +1,15 @@
-import React from 'react';
+import React from "react";
 
-import { isMobile } from 'react-device-detect';
+import { isMobile } from "react-device-detect";
 import {
   FaFacebook,
   FaGithub,
   FaLinkedin,
   FaTimes,
   FaMoneyBillAlt,
-} from 'react-icons/fa';
-import { GoThreeBars } from 'react-icons/go';
-import NavbarDropdown from 'react-navbar-dropdown';
+} from "react-icons/fa";
+import { GoThreeBars } from "react-icons/go";
+import NavbarDropdown from "react-navbar-dropdown";
 
 type NavBarProps = {
   className: string;
@@ -76,7 +76,7 @@ export const NavBar = ({ className }: NavBarProps) => {
       <div className="flex flex-row gap-5">
         <a
           className="link"
-          href="https://github.com/PSOrigins"
+          href="https://github.com/PijusSerapinasMipsas"
           target="_blank"
           rel="noreferrer"
         >
