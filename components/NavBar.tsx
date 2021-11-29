@@ -76,7 +76,7 @@ export const NavBar = ({ className }: NavBarProps) => {
       <div className="flex flex-row gap-5">
         <a
           className="link"
-          href="https://github.com/PijusSerapinasMipsas"
+          href="https://github.com/NoCluePS"
           target="_blank"
           rel="noreferrer"
         >
