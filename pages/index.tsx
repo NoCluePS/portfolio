@@ -12,6 +12,7 @@ import {
   FadeInSection,
 } from "../components";
 import { FaArrowDown } from "react-icons/fa";
+import { SkillLevels } from "../components/SkillLevels";
 
 const Home: NextPage = () => {
   return (
@@ -36,6 +37,11 @@ const Home: NextPage = () => {
       <FadeInSection>
         <div className="block">
           <Aboutme />
+        </div>
+      </FadeInSection>
+      <FadeInSection>
+        <div className="block">
+          <SkillLevels />
         </div>
       </FadeInSection>
       <FadeInSection>
