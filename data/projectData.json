@@ -68,5 +68,12 @@
     "githubUrl": "http://nft.dlux.io/",
     "shortDescription": "An NFT marketplace, created using the HIVE blockchain and hive_keychain authentication",
     "backgroundImage": "https://www.dlux.io/img/dlux-hive-logo-alpha.svg"
+  },
+  {
+    "id": 11,
+    "name": "Face detector",
+    "githubUrl": "https://github.com/NoCluePS/faceDetection",
+    "backgroundImage": "https://media.discordapp.net/attachments/885610220695466024/917042652082491412/Screenshot_2021-12-05_at_15.19.58.png",
+    "shortDescription": "This is a program, that you can detect faces with... Using real-time webcame footage or a image URL..."
   }
 ]
