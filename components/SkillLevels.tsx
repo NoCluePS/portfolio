@@ -6,8 +6,8 @@ import "react-circular-progressbar/dist/styles.css";
 export const SkillLevels = () => {
   return (
     <div className="w-full my-52 flex flex-col items-center justify-center ">
-      <h1 className="font-black text-3xl my-10">Skills</h1>
-      <div className="flex">
+      <h1 className="font-black text-3xl my-5 sm:my-10">Skills</h1>
+      <div className="flex flex-col sm:flex-row gap-5 sm:gap-0">
         <div className="flex flex-col justify-center items-center gap-3 text-xl">
           <h1>React</h1>
           <div className="w-1/3">
