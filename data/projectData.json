@@ -75,5 +75,12 @@
     "githubUrl": "https://github.com/NoCluePS/faceDetection",
     "backgroundImage": "https://media.discordapp.net/attachments/885610220695466024/917042652082491412/Screenshot_2021-12-05_at_15.19.58.png",
     "shortDescription": "This is a program, that you can detect faces with... Using real-time webcame footage or a image URL..."
+  },
+  {
+    "id": 12,
+    "name": "KIBINAI - VJBG",
+    "githubUrl": "https://vjbg-kibinai.netlify.app/",
+    "backgroundImage": "https://cdn.discordapp.com/attachments/885610220695466024/1087073173566148658/Screenshot_2023-03-19_at_20.00.21.png",
+    "shortDescription": "Europe statistics competition site for my school"
   }
 ]

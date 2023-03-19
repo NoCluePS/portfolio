@@ -15,19 +15,14 @@ export const Aboutme = () => {
         <h1 className="font-black text-xl sm:text-4xl">About me</h1>
         <p className="text-md sm:text-xl px-5 sm:px-0 sm:pl-2 w-full sm:w-1/2">
           I&apos;m Pijus Serapinas. Currently a part-time developer{' '}
-          <a href="https://www.dlux.io/" className="link text-blue-500 ">
-            Dlux
+          <a href="https://spectrocoin.com/" className="link text-blue-500 ">
+            SpectroFinance
           </a>{' '}
-          and an intern at{' '}
-          <a href="https://polltix.co" className="link text-blue-500 ">
-            Polltix
-          </a>
-          , a self-motivated and self-thought React and React-native developer.
-          I&apos;m currently 15 years old, and have been programming since 2018.
+         , I am a self-motivated and self-thought React and React-native developer.
+          I&apos;m currently 17 years old, and have been programming since 2018.
           I love what I&apos;m doing. And to be honest, ever since first trying
-          out programming, I&apos;ve been hooked 😍 . Now I&apos;m trying to
-          find some work that could give me some real world experience and maybe
-          even a salary 😁
+          out programming, I&apos;ve been hooked. Now I&apos;m trying to
+          find some extra work, that could maybe help me improve in my desired field
           <br />
           {/* eslint-disable-next-line @next/next/link-passhref */}
           <a

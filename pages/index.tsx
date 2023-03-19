@@ -3,14 +3,7 @@ import React from "react";
 import type { NextPage } from "next";
 import Head from "next/head";
 
-import {
-  Background,
-  NavBar,
-  Aboutme,
-  Contact,
-  Projects,
-  FadeInSection,
-} from "../components";
+import { Background, NavBar, Aboutme, Contact, Projects } from "../components";
 import { FaArrowDown } from "react-icons/fa";
 import { SkillLevels } from "../components/SkillLevels";
 
@@ -34,26 +27,18 @@ const Home: NextPage = () => {
           <FaArrowDown color={"#00000"} size={35} />
         </div>
       </div>
-      <FadeInSection>
-        <div className="block">
-          <Aboutme />
-        </div>
-      </FadeInSection>
-      <FadeInSection>
-        <div className="block">
-          <SkillLevels />
-        </div>
-      </FadeInSection>
-      <FadeInSection>
-        <div className="block">
-          <Projects />
-        </div>
-      </FadeInSection>
-      <FadeInSection>
-        <div className="block">
-          <Contact />
-        </div>
-      </FadeInSection>
+      <div className="block">
+        <Aboutme />
+      </div>
+      <div className="block">
+        <SkillLevels />
+      </div>
+      <div className="block">
+        <Projects />
+      </div>
+      <div className="block">
+        <Contact />
+      </div>
     </>
   );
 };
