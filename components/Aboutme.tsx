@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Image from 'next/image';
-import MyPhoto from '../public/237608271_1240473899762794_7939959257113963597_n.jpg';
+import MyPhoto from "../public/pfp.png";
 
 import { isMobile } from 'react-device-detect';
 
